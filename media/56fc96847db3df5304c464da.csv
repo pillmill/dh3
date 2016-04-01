@@ -1,0 +1,71 @@
+GO term,Description,P-value,FDR q-value,"Enrichment (N, B, n, b)",Genes
+GO:0055114,oxidation-reduction process,1.2E-10,4.02E-7,"2.21 (1605,134,342,63)",[+] Show genes
+GO:0019752,carboxylic acid metabolic process,3.72E-9,6.26E-6,"2.84 (1605,129,171,39)",[+] Show genes
+GO:0043436,oxoacid metabolic process,8.18E-9,9.18E-6,"2.77 (1605,132,171,39)",[+] Show genes
+GO:0006082,organic acid metabolic process,8.18E-9,6.88E-6,"2.77 (1605,132,171,39)",[+] Show genes
+GO:0005975,carbohydrate metabolic process,2.83E-8,1.9E-5,"3.15 (1605,109,145,31)",[+] Show genes
+GO:0019362,pyridine nucleotide metabolic process,3.08E-8,1.73E-5,"6.07 (1605,23,161,14)",[+] Show genes
+GO:0046496,nicotinamide nucleotide metabolic process,4.3E-8,2.07E-5,"6.63 (1605,22,143,13)",[+] Show genes
+GO:0044281,small molecule metabolic process,5.89E-8,2.48E-5,"2.23 (1605,215,171,51)",[+] Show genes
+GO:0072524,pyridine-containing compound metabolic process,7.3E-8,2.73E-5,"5.15 (1605,31,161,16)",[+] Show genes
+GO:0034605,cellular response to heat,8.98E-8,3.02E-5,"32.42 (1605,27,11,6)",[+] Show genes
+GO:0044723,single-organism carbohydrate metabolic process,1.15E-7,3.51E-5,"3.21 (1605,91,154,28)",[+] Show genes
+GO:0006733,oxidoreduction coenzyme metabolic process,1.48E-7,4.15E-5,"5.58 (1605,25,161,14)",[+] Show genes
+GO:0032787,monocarboxylic acid metabolic process,2.53E-7,6.56E-5,"3.81 (1605,52,170,21)",[+] Show genes
+GO:0009408,response to heat,6.99E-7,1.68E-4,"24.32 (1605,36,11,6)",[+] Show genes
+GO:0044262,cellular carbohydrate metabolic process,7.96E-7,1.79E-4,"3.53 (1605,65,154,22)",[+] Show genes
+GO:0006091,generation of precursor metabolites and energy,1.15E-6,2.42E-4,"2.73 (1605,51,311,27)",[+] Show genes
+GO:0009266,response to temperature stimulus,1.19E-6,2.35E-4,"22.45 (1605,39,11,6)",[+] Show genes
+GO:0016052,carbohydrate catabolic process,1.31E-6,2.45E-4,"3.91 (1605,31,225,17)",[+] Show genes
+GO:0044724,single-organism carbohydrate catabolic process,2.84E-6,5.04E-4,"3.94 (1605,29,225,16)",[+] Show genes
+GO:0006457,protein folding,9.33E-6,1.57E-3,"25.16 (1605,29,11,5)",[+] Show genes
+GO:0006631,fatty acid metabolic process,1.00E-05,1.61E-3,"5.29 (1605,20,167,11)",[+] Show genes
+GO:1901564,organonitrogen compound metabolic process,1.52E-5,2.32E-3,"1.88 (1605,168,264,52)",[+] Show genes
+GO:0044710,single-organism metabolic process,1.63E-5,2.39E-3,"1.25 (1605,563,487,214)",[+] Show genes
+GO:0009628,response to abiotic stimulus,1.73E-5,2.42E-3,"10.94 (1605,79,13,7)",[+] Show genes
+GO:0015980,energy derivation by oxidation of organic compounds,3.45E-5,4.65E-3,"2.79 (1605,37,311,20)",[+] Show genes
+GO:0006753,nucleoside phosphate metabolic process,4.59E-5,5.94E-3,"3.39 (1605,50,161,17)",[+] Show genes
+GO:0009117,nucleotide metabolic process,4.59E-5,5.72E-3,"3.39 (1605,50,161,17)",[+] Show genes
+GO:0044712,single-organism catabolic process,7.45E-5,8.96E-3,"2.18 (1605,140,179,34)",[+] Show genes
+GO:0043335,protein unfolding,8.55E-5,9.92E-3,"145.91 (1605,2,11,2)",[+] Show genes
+GO:0005991,trehalose metabolic process,1.11E-4,1.25E-2,"6.28 (1605,10,179,7)",[+] Show genes
+GO:0051186,cofactor metabolic process,1.24E-4,1.34E-2,"2.94 (1605,61,170,19)",[+] Show genes
+GO:0006732,coenzyme metabolic process,1.42E-4,1.5E-2,"3.33 (1605,54,143,16)",[+] Show genes
+GO:0009086,methionine biosynthetic process,1.46E-4,1.49E-2,"2.98 (1605,12,494,11)",[+] Show genes
+GO:0000097,sulfur amino acid biosynthetic process,1.46E-4,1.45E-2,"2.98 (1605,12,494,11)",[+] Show genes
+GO:0044711,single-organism biosynthetic process,2.09E-4,2.01E-2,"1.66 (1605,166,338,58)",[+] Show genes
+GO:0016051,carbohydrate biosynthetic process,2.52E-4,2.35E-2,"4.23 (1605,29,144,11)",[+] Show genes
+GO:1901700,response to oxygen-containing compound,3.2E-4,2.91E-2,"2.12 (1605,26,582,20)",[+] Show genes
+GO:0006112,energy reserve metabolic process,3.98E-4,3.52E-2,"3.21 (1605,15,367,11)",[+] Show genes
+GO:0005977,glycogen metabolic process,3.98E-4,3.43E-2,"3.21 (1605,15,367,11)",[+] Show genes
+GO:0055086,nucleobase-containing small molecule metabolic process,4.16E-4,3.5E-2,"3.07 (1605,58,144,16)",[+] Show genes
+GO:0009062,fatty acid catabolic process,4.22E-4,3.47E-2,"6.48 (1605,9,165,6)",[+] Show genes
+GO:1901607,alpha-amino acid biosynthetic process,4.49E-4,3.6E-2,"1.89 (1605,39,588,27)",[+] Show genes
+GO:0044282,small molecule catabolic process,4.82E-4,3.77E-2,"2.99 (1605,52,165,16)",[+] Show genes
+GO:0008652,cellular amino acid biosynthetic process,4.91E-4,3.76E-2,"1.86 (1605,41,588,28)",[+] Show genes
+GO:0016054,organic acid catabolic process,5.32E-4,3.98E-2,"3.42 (1605,37,165,13)",[+] Show genes
+GO:0046395,carboxylic acid catabolic process,5.32E-4,3.89E-2,"3.42 (1605,37,165,13)",[+] Show genes
+GO:0044283,small molecule biosynthetic process,5.38E-4,3.85E-2,"1.68 (1605,85,494,44)",[+] Show genes
+GO:0006090,pyruvate metabolic process,5.66E-4,3.97E-2,"9.98 (1605,12,67,5)",[+] Show genes
+GO:0034308,primary alcohol metabolic process,6.59E-4,4.52E-2,"11.26 (1605,6,95,4)",[+] Show genes
+GO:0006067,ethanol metabolic process,6.59E-4,4.43E-2,"11.26 (1605,6,95,4)",[+] Show genes
+GO:0006555,methionine metabolic process,7.62E-4,5.03E-2,"2.75 (1605,13,494,11)",[+] Show genes
+GO:0010035,response to inorganic substance,8.04E-4,5.21E-2,"2.58 (1605,17,475,13)",[+] Show genes
+GO:0042026,protein refolding,8.31E-4,5.28E-2,"13.90 (1605,11,42,4)",[+] Show genes
+GO:1903046,meiotic cell cycle process,8.64E-4,5.39E-2,"1.34 (1605,76,996,63)",[+] Show genes
+GO:0019693,ribose phosphate metabolic process,9.08E-4,5.56E-2,"6.21 (1605,27,67,7)",[+] Show genes
+GO:0005980,glycogen catabolic process,9.52E-4,5.72E-2,"32.10 (1605,2,50,2)",[+] Show genes
+GO:0044247,cellular polysaccharide catabolic process,9.52E-4,5.62E-2,"32.10 (1605,2,50,2)",[+] Show genes
+GO:0009251,glucan catabolic process,9.52E-4,5.52E-2,"32.10 (1605,2,50,2)",[+] Show genes
+,,,,,
+'P-value' is the enrichment p-value computed according to the mHG or HG model. This p-value is not corrected for multiple testing of 4447 GO terms.,,,,,
+,,,,,
+'FDR q-value' is the correction of the above p-value for multiple testing using the Benjamini and Hochberg (1995) method. ,,,,,
+"Namely, for the ith term (ranked according to p-value) the FDR q-value is (p-value * number of GO terms) / i. ",,,,,
+,,,,,
+"Enrichment (N, B, n, b) is defined as follows:",,,,,
+N - is the total number of genes,,,,,
+B - is the total number of genes associated with a specific GO term,,,,,
+n - is the number of genes in the top of the user's input list or in the target set when appropriate,,,,,
+b - is the number of genes in the intersection,,,,,
+Enrichment = (b/n) / (B/N),,,,,

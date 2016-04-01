@@ -1,0 +1,59 @@
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:jr="http://openrosa.org/javarosa">
+  <h:head>
+    <h:title>Untitled Form</h:title>
+    <model>
+      <instance>
+        <data id="build_Untitled-Form_1456977614">
+          <meta>
+            <instanceID/>
+          </meta>
+          <untitled12/>
+          <untitled13/>
+          <untitled14/>
+          <untitled15/>
+          <untitled16/>
+          <untitled17/>
+          <untitled18/>
+          <untitled19/>
+          <untitled20>
+          </untitled20>
+        </data>
+      </instance>
+      <itext>
+        <translation lang="eng">
+          <text id="/data/untitled20:label">
+            <value></value>
+          </text>
+        </translation>
+      </itext>
+      <bind nodeset="/data/meta/instanceID" type="string" readonly="true()" calculate="concat('uuid:', uuid())"/>
+      <bind nodeset="/data/untitled12" type="string"/>
+      <bind nodeset="/data/untitled13" type="int"/>
+      <bind nodeset="/data/untitled14" type="date"/>
+      <bind nodeset="/data/untitled15" type="geopoint"/>
+      <bind nodeset="/data/untitled16" type="binary"/>
+      <bind nodeset="/data/untitled17" type="select1"/>
+      <bind nodeset="/data/untitled18" type="select"/>
+      <bind nodeset="/data/untitled19" type="string" jr:preload="property" jr:preloadParams="deviceid"/>
+    </model>
+  </h:head>
+  <h:body>
+    <input ref="/data/untitled12">
+    </input>
+    <input ref="/data/untitled13">
+    </input>
+    <input ref="/data/untitled14">
+    </input>
+    <input ref="/data/untitled15">
+    </input>
+    <upload ref="/data/untitled16" mediatype="image/*">
+    </upload>
+    <select1 ref="/data/untitled17">
+    </select1>
+    <select ref="/data/untitled18">
+    </select>
+    <group>
+      <label ref="jr:itext('/data/untitled20:label')"/>
+    </group>
+  </h:body>
+</h:html>
